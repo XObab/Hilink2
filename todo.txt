@@ -1,0 +1,3 @@
+navbar image src
+
+favicon.ico in app folder
